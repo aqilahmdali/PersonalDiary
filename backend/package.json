@@ -12,16 +12,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aqilahmdali/PersonalDiary.git"
+    "url": "git+https://github.com/faizbek3991/PersonalDiary.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/aqilahmdali/PersonalDiary/issues"
+    "url": "https://github.com/faizbek3991/PersonalDiary/issues"
   },
-  "homepage": "https://github.com/aqilahmdali/PersonalDiary#readme",
+  "homepage": "https://github.com/faizbek3991/PersonalDiary#readme",
   "dependencies": {
     "bcryptjs": "^3.0.3",
     "cors": "^2.8.6",
